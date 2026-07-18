@@ -20,7 +20,8 @@ lendemain, "matin" repart de l'état réel. Zéro copier-coller.
 
 ## Automatisations planifiées (Routines)
 
-Candidates — activées une par une, sur validation explicite (§12) :
+Candidates — activées une par une, sur validation explicite
+(LASTO.md, Amélioration continue) :
 
 | Routine | Cadence | Action |
 |---|---|---|

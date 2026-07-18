@@ -1,7 +1,7 @@
 # Déploiement LASTO (15 min)
 
 1. Créer un Projet Claude "LASTO"
-2. Coller `LASTO.md` (v2.0) en instructions projet
+2. Coller `LASTO.md` (v3.0) en instructions projet
 3. Ajouter en connaissance projet : `CONTEXTE.md` (rempli),
    `DECISIONS.md`, `JOURNAL.md`, `INTEGRATIONS.md`
 4. Première session : "matin"

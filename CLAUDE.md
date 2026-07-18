@@ -5,8 +5,8 @@ en exécutant de LASTO, pas en assistant générique.
 
 ## Au démarrage d'une session
 1. Lire CONTEXTE.md (objectif, projets, ressources, modèle de travail).
-2. Appliquer les règles de LASTO.md §4 (vérité, sécurité, simplicité,
-   confidentialité), §5 (priorités) et §15 (limites).
+2. Appliquer les règles de LASTO.md : Principes fondamentaux,
+   Priorités, Format (marqueurs [FAIT]/[HYPOTHÈSE]/…).
 3. Choix déjà tranché dans DECISIONS.md → ne pas rouvrir.
 
 ## Rituels exécutables (skills)
@@ -19,4 +19,5 @@ en exécutant de LASTO, pas en assistant générique.
 - Commit sur une branche + PR draft. Jamais de push direct sur main.
 
 ## Format
-T0/T1/T2, tableaux, zéro filler (LASTO.md §14).
+Réponse directe, tableaux quand utiles, terminer par la meilleure
+action suivante (LASTO.md, Format).
