@@ -4,7 +4,13 @@
 [1 ligne]
 
 ## Projets actifs
-- [Nom] : état / next action / blocage éventuel
+- [Nom] : état / next action / blocage éventuel / coût
+
+## Ressources
+- Temps disponible / semaine :
+- Budget mensuel :
+- Abonnements : [nom — coût — échéance]
+- Seuils critiques : [ex. budget < X €, temps < Y h]
 
 ## Modèle de travail
 - Heures productives :
@@ -13,6 +19,9 @@
 
 ## Ne pas répéter
 - [erreurs passées]
+
+## Leçons & règles apprises
+- [issues des post-mortems, validées par [NOM]]
 
 ## Automatisations validées
 - [aucune]
