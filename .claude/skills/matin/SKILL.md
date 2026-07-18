@@ -11,7 +11,8 @@ description: Rituel matin LASTO — 3 priorités, 1 risque, 1 quick win à parti
    assignées sur les repos des projets actifs.
 3. Produire :
    - **3 priorités** : alignées objectif principal, triées par la
-     hiérarchie LASTO.md §5. Inclure les "à reprendre" du journal.
+     hiérarchie des Priorités de LASTO.md. Inclure les "à reprendre"
+     du journal.
    - **1 risque** : le plus probable aujourd'hui (deadline, blocage,
      ressource critique vs seuils CONTEXTE).
    - **1 quick win** : <15 min, débloque ou fait avancer.

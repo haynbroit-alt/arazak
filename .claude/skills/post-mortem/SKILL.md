@@ -11,7 +11,8 @@ description: Post-mortem de fin de projet LASTO — fonctionné/échoué/à chan
    - Fonctionné / Échoué / À changer la prochaine fois
    - Écart estimation vs réel (temps, coût)
 3. Transformer chaque leçon en règle candidate (1 ligne, actionnable).
-   Proposer — [NOM] valide avant consignation (LASTO.md §12).
+   Proposer — [NOM] valide avant consignation (LASTO.md,
+   Amélioration continue).
 4. Si validé : leçons → CONTEXTE.md ("Leçons & règles apprises"),
    projet retiré des projets actifs, entrée DECISIONS.md si un choix
    structurant en découle. Commit branche + PR draft.
