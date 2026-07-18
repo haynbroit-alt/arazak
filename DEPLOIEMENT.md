@@ -19,7 +19,7 @@
 | 1. CONTEXTE.md vivant (màj chaque session) | Haute | Nul |
 | 2. DECISIONS.md + JOURNAL.md alimentés | Haute | Faible |
 | 3. Intégrations : email, calendrier, GitHub — voir `INTEGRATIONS.md` (module livré, OAuth côté [NOM]) | Haute | Moyen |
-| 4. Outils d'exécution (Claude Code, MCP, automatisations) | Très haute | Moyen |
+| 4. Outils d'exécution — voir `OUTILS.md` (CLAUDE.md + skills livrés, Routines sur validation) | Très haute | Moyen |
 
 Principe : la valeur vient désormais de l'architecture autour du
 prompt (mémoire, journaux, intégrations, outils), pas de règles
