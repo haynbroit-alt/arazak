@@ -6,4 +6,5 @@ CLAUDE.md
 .gitignore
 node_modules
 wrangler.jsonc
+.mcp.json
 .assetsignore

@@ -31,6 +31,20 @@ Candidates — activées une par une, sur validation explicite
 
 État : [PROPOSÉ] — aucune active. Dire "active [nom]" pour lancer.
 
+## n8n — moteur d'automatisation
+
+| Brique | Mécanisme | État |
+|---|---|---|
+| n8n-mcp (serveur MCP) | `.mcp.json` du repo → chargé auto par toute session Claude Code ici (`npx n8n-mcp`) | [FAIT] mode docs (531 nœuds, validation, templates) sans instance |
+| Mode gestion d'instance | Variables d'env `N8N_API_URL` + `N8N_API_KEY` | [ACTION NOM] nécessite une instance n8n |
+| n8n-skills (14 skills : expressions, patterns, validation, code JS/Python, agents IA…) | Dans Claude Code : `/plugin install czlonkowski/n8n-skills` | [ACTION NOM] 1 commande |
+
+Règles de sécurité n8n (source : doc n8n-mcp) :
+- Jamais d'édition directe de workflows de production par l'IA —
+  copie, test en dev, backup exporté.
+- Si instance connectée : clé API en lecture seule d'abord ;
+  écritures bloquables via `DISABLED_TOOLS`.
+
 ## Sécurité d'exécution
 - Écriture mémoire : jamais de push direct sur main — PR systématique.
 - Actions externes (email, event, merge) : confirmation explicite.
